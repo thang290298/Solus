@@ -15,7 +15,9 @@ Bao gồm các thành phần:
 ### 2. Cấu hình cơ bản OS ( CentOS 7)
 - Cấu hình Bridge Card mạng IP_Public ( IPv4 và IPv6 )
   - ADD Port mạng `Em1` chạy master card `br0` . Ví dụ:
+
       <img src="../Solus/images/Add-KVM-Solus/brigde-Public.png">
+      
   - Thống tin cấu hình
 ```
 # Trên Port Em1
