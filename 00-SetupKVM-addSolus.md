@@ -16,7 +16,7 @@ Bao gồm các thành phần:
 - Cấu hình Bridge Card mạng IP_Public ( IPv4 và IPv6 )
   - ADD Port mạng `Em1` chạy master card `br0` . Ví dụ:
 
-      <img src="../../images/Add-KVM-Solusbrigde-Public.png">
+      <img src="../Solus/images/Add-KVM-Solus/brigde-Public.png">
 
   - Thống tin cấu hình
 ```
